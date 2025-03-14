@@ -8,6 +8,6 @@ With a strong passion for cybersecurity and Microsoft Cloud technologies, I help
 
 Beyond strategy and implementation, I advise C-level executives and security teams, fostering a **Grow Together** mindset. As a Microsoft Certified Trainer (MCT) and speaker, I share my expertise to empower organizations, ensuring cybersecurity is not just a necessity but a driver for innovation, collaboration, and continuous improvement.
 
-> I work as a freelancer via my company [oblueprint.nl](https://oblueprint.nl). Check out my profile and detailed experience.
+> I work as a freelancer via my company [oblueprint.nl](https://oblueprint.nl). Check out my profile and detailed experience..
 
 {: .prompt-tip }
