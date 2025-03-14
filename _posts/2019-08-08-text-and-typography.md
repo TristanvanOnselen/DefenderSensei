@@ -1,10 +1,10 @@
 ---
-title: Text and Typography
-description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
-author: cotes
-date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
+title: Optimizing Your Microsoft Sentinel
+description: You’ve implemented Microsoft Sentinel
+author: Tristan van Onselen
+date: 2025-01-01 11:33:00 +0800
+categories: [Sentinel, Defender]
+tags: [PowerBI]
 pin: true
 math: true
 mermaid: true
