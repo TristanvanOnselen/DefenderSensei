@@ -2,9 +2,3 @@
 ---
 
 @use 'main'; /* Ensure _main.scss exists in the same directory or load path */
-
-/* Append your custom styles below */
-body {
-  -webkit-text-size-adjust: 100%; /* For older WebKit browsers */
-  text-size-adjust: 100%; /* For modern browsers */
-}
