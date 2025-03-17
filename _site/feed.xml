@@ -1,0 +1,75 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://tristanvanonselen.github.io/</id>
+  <title>Grow Together</title>
+  <subtitle>DefenderSensei</subtitle>
+  <updated>2025-03-17T21:47:13+01:00</updated>
+  <author>
+    <name>Tristan van Onselen</name>
+    <uri>https://tristanvanonselen.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://tristanvanonselen.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://tristanvanonselen.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 Tristan van Onselen </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Getting Started</title>
+    <link href="https://tristanvanonselen.github.io/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
+    <published>2019-08-09T14:55:00+02:00</published>
+  
+    <updated>2025-03-14T11:47:27+01:00</updated>
+  
+    <id>https://tristanvanonselen.github.io/posts/getting-started/</id>
+    <content type="text/html" src="https://tristanvanonselen.github.io/posts/getting-started/" />
+    <author>
+      <name>cotes</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Tutorial" />
+    
+  
+
+  <summary>Get started with Chirpy basics in this comprehensive overview. You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Getting Started</title>
+    <link href="https://tristanvanonselen.github.io/posts/getting-started-copy/" rel="alternate" type="text/html" title="Getting Started" />
+    <published>2019-08-09T14:55:00+02:00</published>
+  
+    <updated>2019-08-09T14:55:00+02:00</updated>
+  
+    <id>https://tristanvanonselen.github.io/posts/getting-started-copy/</id>
+    <content type="text/html" src="https://tristanvanonselen.github.io/posts/getting-started-copy/" />
+    <author>
+      <name>cotes</name>
+    </author>
+
+  
+    
+    <category term="Blogging" />
+    
+    <category term="Tutorial" />
+    
+  
+
+  <summary>Get started with Chirpy basics in this comprehensive overview. You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.</summary>
+
+  </entry>
+
+</feed>
+
+
