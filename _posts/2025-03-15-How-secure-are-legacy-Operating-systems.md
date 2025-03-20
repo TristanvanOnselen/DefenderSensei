@@ -2,7 +2,7 @@
 title: Server 2016 vs Newer OS Versions – Security and Modernization
 description: >-
   A deep dive into the security risks of using Windows Server 2016 and how modern server versions like Server 2022 and 2025 offer better protection against advanced threats.
-author: tvanonselen
+author: Tristan
 date: 2025-03-15 08:00:00 +0100
 categories: [Cybersecurity, Server Security]
 tags: [Windows Server, Security, Modernization, Upgrade]

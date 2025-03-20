@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://tristanvanonselen.github.io"
+url: ""
 
 github:
   username: tristanvanonselen # change to your GitHub username
@@ -41,9 +41,9 @@ social:
     Tristan van Onselen
     # email: example@domain.com # change to your email address
   links:
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/tristanvanonselen # Change this to your desired link
+    - https://github.com/tristanvanonselen
+    - https://oblueprint.nl
 
 # Site Verification Settings
 webmaster_verifications:
@@ -151,7 +151,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/DefenderSensei"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 

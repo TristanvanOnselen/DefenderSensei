@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://tristanvanonselen.github.io/</id>
+  <id>/</id>
   <title>Grow Together</title>
   <subtitle>DefenderSensei</subtitle>
-  <updated>2025-03-17T21:47:13+01:00</updated>
+  <updated>2025-03-20T20:48:43+01:00</updated>
   <author>
     <name>Tristan van Onselen</name>
-    <uri>https://tristanvanonselen.github.io/</uri>
+    <uri>/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://tristanvanonselen.github.io/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://tristanvanonselen.github.io/"/>
+    href="/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 Tristan van Onselen </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,53 +20,27 @@
 
   
   <entry>
-    <title>Getting Started</title>
-    <link href="https://tristanvanonselen.github.io/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
-    <published>2019-08-09T14:55:00+02:00</published>
+    <title>Server 2016 vs Newer OS Versions – Security and Modernization</title>
+    <link href="/posts/How-secure-are-legacy-Operating-systems/" rel="alternate" type="text/html" title="Server 2016 vs Newer OS Versions – Security and Modernization" />
+    <published>2025-03-15T08:00:00+01:00</published>
   
-    <updated>2025-03-14T11:47:27+01:00</updated>
+    <updated>2025-03-15T08:00:00+01:00</updated>
   
-    <id>https://tristanvanonselen.github.io/posts/getting-started/</id>
-    <content type="text/html" src="https://tristanvanonselen.github.io/posts/getting-started/" />
+    <id>/posts/How-secure-are-legacy-Operating-systems/</id>
+    <content type="text/html" src="/posts/How-secure-are-legacy-Operating-systems/" />
     <author>
-      <name>cotes</name>
+      <name>Tristan</name>
     </author>
 
   
     
-    <category term="Blogging" />
+    <category term="Cybersecurity" />
     
-    <category term="Tutorial" />
-    
-  
-
-  <summary>Get started with Chirpy basics in this comprehensive overview. You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.</summary>
-
-  </entry>
-
-  
-  <entry>
-    <title>Getting Started</title>
-    <link href="https://tristanvanonselen.github.io/posts/getting-started-copy/" rel="alternate" type="text/html" title="Getting Started" />
-    <published>2019-08-09T14:55:00+02:00</published>
-  
-    <updated>2019-08-09T14:55:00+02:00</updated>
-  
-    <id>https://tristanvanonselen.github.io/posts/getting-started-copy/</id>
-    <content type="text/html" src="https://tristanvanonselen.github.io/posts/getting-started-copy/" />
-    <author>
-      <name>cotes</name>
-    </author>
-
-  
-    
-    <category term="Blogging" />
-    
-    <category term="Tutorial" />
+    <category term="Server Security" />
     
   
 
-  <summary>Get started with Chirpy basics in this comprehensive overview. You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.</summary>
+  <summary>A deep dive into the security risks of using Windows Server 2016 and how modern server versions like Server 2022 and 2025 offer better protection against advanced threats.</summary>
 
   </entry>
 

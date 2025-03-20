@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://tristanvanonselen.github.io/sitemap.xml
+Sitemap: /sitemap.xml

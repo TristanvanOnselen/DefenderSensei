@@ -1,19 +1,11 @@
 [
   {
-    "title": "Getting Started",
-    "url": "/posts/getting-started/",
-    "categories": "Blogging, Tutorial",
-    "tags": "getting started with sites",
-    "date": "2019-08-09 14:55:00 +0200",
-    "content": "Get started with Chirpy basics in this comprehensive overview. You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server."
-  },
-  {
-    "title": "Getting Started",
-    "url": "/posts/getting-started-copy/",
-    "categories": "Blogging, Tutorial",
-    "tags": "getting started with sites",
-    "date": "2019-08-09 14:55:00 +0200",
-    "content": "Get started with Chirpy basics in this comprehensive overview. You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server."
+    "title": "Server 2016 vs Newer OS Versions – Security and Modernization",
+    "url": "/posts/How-secure-are-legacy-Operating-systems/",
+    "categories": "Cybersecurity, Server Security",
+    "tags": "Windows Server, Security, Modernization, Upgrade",
+    "date": "2025-03-15 08:00:00 +0100",
+    "content": "A deep dive into the security risks of using Windows Server 2016 and how modern server versions like Server 2022 and 2025 offer better protection against advanced threats."
   }
   
 ]
