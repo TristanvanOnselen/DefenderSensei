@@ -1,33 +1,33 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/DefenderSensei/</id>
+  <id>http://localhost:4000/</id>
   <title>Grow Together</title>
   <subtitle>DefenderSensei</subtitle>
-  <updated>2025-03-20T21:37:38+01:00</updated>
+  <updated>2025-03-20T21:42:42+01:00</updated>
   <author>
     <name>Tristan van Onselen</name>
-    <uri>http://localhost:4000/DefenderSensei/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/DefenderSensei/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/DefenderSensei/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2025 Tristan van Onselen </rights>
-  <icon>/DefenderSensei/assets/img/favicons/favicon.ico</icon>
-  <logo>/DefenderSensei/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
     <title>Server 2016 vs Newer OS Versions – Security and Modernization</title>
-    <link href="http://localhost:4000/DefenderSensei/posts/How-secure-are-legacy-Operating-systems/" rel="alternate" type="text/html" title="Server 2016 vs Newer OS Versions – Security and Modernization" />
+    <link href="http://localhost:4000/posts/How-secure-are-legacy-Operating-systems/" rel="alternate" type="text/html" title="Server 2016 vs Newer OS Versions – Security and Modernization" />
     <published>2025-03-15T08:00:00+01:00</published>
   
     <updated>2025-03-20T20:48:56+01:00</updated>
   
-    <id>http://localhost:4000/DefenderSensei/posts/How-secure-are-legacy-Operating-systems/</id>
-    <content type="text/html" src="http://localhost:4000/DefenderSensei/posts/How-secure-are-legacy-Operating-systems/" />
+    <id>http://localhost:4000/posts/How-secure-are-legacy-Operating-systems/</id>
+    <content type="text/html" src="http://localhost:4000/posts/How-secure-are-legacy-Operating-systems/" />
     <author>
       <name>Tristan</name>
     </author>
